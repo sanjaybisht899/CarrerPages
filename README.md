@@ -1,4 +1,4 @@
-# CarrerPages
+# Carrer Pages
 Company Career Portal Link
 
 
@@ -71,5 +71,5 @@ All contributions are welcome:
 * Request a new topic creating a New issue with the enhancement tag.
 * Find any kind of errors in the links and create a New issue with the details or fork the repository and do a Pull Request.
 * Suggest a better or more organized way for existing examples.
-* Add more carrer pages.
+* Add more career portal links.
 
