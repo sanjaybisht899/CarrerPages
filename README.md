@@ -2,8 +2,8 @@
 Company Career Portal Link
 
 
-| Company | Link |
-| --- | --- |
+| Company | Link | Referral Email | 
+| --- | --- | --- |
 | 1. TCS | https://lnkd.in/dJpHXdvv |
 | 2. Infosys | https://lnkd.in/dEcdZ7gf |
 | 3. Wipro | https://lnkd.in/d89txDcp |
