@@ -2,13 +2,13 @@
 Company Career Portal Link
 
 
-| Company | Link | Referral Email | 
-| --- | --- | --- |
-| 1. TCS | https://lnkd.in/dJpHXdvv |
+| Company | Link | Referral Email | Bonus |  
+| --- | --- | --- | --- |
+| 1. TCS | https://www.tcs.com/careers/india | NA | [TCS](/TCS/Bonus.md)
 | 2. Infosys | https://lnkd.in/dEcdZ7gf |
 | 3. Wipro | https://lnkd.in/d89txDcp |
 | 4. Cognizant | https://lnkd.in/d6tp6F_p |
-| 5. LTI | https://lnkd.in/dnCVuQzD |
+| 5. LTI Mindtree | https://lnkd.in/dnCVuQzD |
 | 6. Capgemini | https://lnkd.in/dZBUYY88 |
 | 7. DXC Technology | https://lnkd.in/dnVzT7eb |
 | 8. HCL | https://lnkd.in/dwTuQWAf |
@@ -38,7 +38,7 @@ Company Career Portal Link
 | 32. Seimens  | https://lnkd.in/df4czTeb |
 | 33. Samsung | https://lnkd.in/d5gUrDxq |
 | 34. Vmware | https://lnkd.in/d7zgbhXk |
-| 35. Adobe | https://lnkd.in/dMWhmAKZ |
+| 35. Adobe | https://lnkd.in/dMWhmAKZ | | [Adobe](/Adobe/Bonus.md)
 | 36. Amazon | https://lnkd.in/dSYUatGR |
 | 37. Cadence Design Systems | https://lnkd.in/dAjV2Df4 |
 | 38. CleverTap | https://lnkd.in/dUNg4sZP |
