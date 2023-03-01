@@ -257,7 +257,7 @@ Company Career Portal Link
 
 
   - [Ericsson](https://www.ericsson.com/en/careers) 
-  - [Nokia](https://www.nokia.com/careers/) 
+  - [Nokia](https://www.nokia.com/about-us/careers/) 
   - [Tejas networks](https://www.tejasnetworks.com/careers) 
   - [NEC](https://www.nec.com/en/global/careers/index.html) 
   - [Radisys](https://www.radisys.com/careers/) 
