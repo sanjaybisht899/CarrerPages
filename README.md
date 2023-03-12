@@ -70,27 +70,27 @@ Company Career Portal Link
 
 -   [Ola](https://www.olacabs.com/careers) 
 -   [Uber](https://www.uber.com/us/en/careers/) 
--   [Bluesmart](https://bluesmart.com/careers) 
+-   [Blusmart](https://www.linkedin.com/jobs/blusmart-jobs-worldwide?keywords=Blusmart&location=Worldwide&locationId=&geoId=92000000&f_TPR=&f_C=14528036&position=1&pageNum=0) 
 -   [Meru](https://www.merucabs.com/careers)
--   [Zoomcar](https://www.zoomcar.com/careers) 
--   [Rapido](https://rapido.bike/careers)
+-   [Zoomcar](https://www.linkedin.com/jobs/search/?keywords=Zoomcar&location=India&locationId=&geoId=102713980&f_TPR=&f_C=3243387&position=1&pageNum=0) 
+-   [Rapido](https://rapido.bike/Careers)
 
 ## E-commerce
 
 -   [Walmart](https://careers.walmart.com/) 
--   [Flipkart](https://careers.flipkart.com/) 
--   [Myntra](https://careers.myntra.com/) 
+-   [Flipkart](https://www.flipkartcareers.com/) 
+-   [Myntra](https://careers.myntra.com/jobs) 
 -   [Tesco](https://www.tesco-careers.com/) 
--   [Target](https://careers.target.com/) 
--   [Shopsy](https://www.shopsy.in/careers) 
+-   [Target](https://jobs.target.com/search-jobs) 
+-   [Shopsy](https://www.flipkartcareers.com/) 
 -   [Bloomreach](https://www.bloomreach.com/careers) 
 -   [Udaan](https://udaan.com/careers/) 
 -   [Cult.fit](https://cult.fit/careers)
--   [Urban company](https://urbancompany.com/careers) 
--   [Ajio](https://careers.ril.com/ajio) 
--   [PharmaEasy](https://pharmaeasy.com/careers) 
--   [Meesho](https://meesho.com/careers) 
--   [Lowe's Companies, Inc.](https://careers.lowes.com/) 
+-   [Urban company](https://careers.urbancompany.com/#recent-jobs) 
+-   [Ajio](https://rcareers.ril.com/sap/bc/bsp/sap/zerec_home_page/home_page.do#) 
+-   [PharmaEasy](https://pharmeasy.in/careers/) 
+-   [Meesho](https://www.meesho.io/jobs) 
+-   [Lowe's Companies, Inc.](https://lowes.co.in/openings/) 
 
 ## CRM/Workflow Management
 
@@ -109,10 +109,10 @@ Company Career Portal Link
 
 ## Collaboration tools
 
--   [Atlassian](https://www.atlassian.com/company/careers) 
--   [Asana](https://asana.com/jobs) 
--   [Zoom](https://zoom.us/careers) 
--   [Slack](https://slack.com/careers) 
+-   [Atlassian](https://www.atlassian.com/company/careers/all-jobs) 
+-   [Asana](https://asana.com/jobs/all) 
+-   [Zoom](https://careers.zoom.us/jobs/search?page=1) 
+-   [Slack](https://slack.com/intl/en-in/careers#openings) 
 
 ## Cloud services/SaaS
 
@@ -133,35 +133,35 @@ Company Career Portal Link
 
 -   [Slack](https://slack.com/careers) 
 -   [Zoom](https://zoom.us/careers) 
--   [Twilio](https://www.twilio.com/company/careers) 
+-   [Twilio](https://www.twilio.com/en-us/company/jobs) 
 -   [Twitter](https://careers.twitter.com/) 
--   [Airtel X labs](https://careers.airtelxlabs.com/)
+-   [Airtel X labs](https://careers.airtel.com/)
 
 ## Advertisement
 
 -   [media.net](https://www.media.net/careers) 
 -   [Adpushup](https://adpushup.com/careers/)
--   [Kevel](https://kevel.com/careers/)
+-   [Kevel](https://www.kevel.com/careers/jobs)
 
 
 ## Payments / Fintech
 
--   [Paypal](https://careers.paypal.com/) 
+-   [Paypal](https://careers.pypl.com/home/) 
 -   [Visa](https://usa.visa.com/careers.html) 
 -   [Phonepe](https://phonepe.com/careers/) 
 -   [Paytm](https://www.paytm.com/careers/) 
--   [Bhartpe](https://www.bhartipe.com/careers) 
--   [Cred](https://cred.club/careers/) 
--   [Jupiter](https://www.jupiter.com/careers) 
--   [Slice](https://www.slice.com/careers) 
--   [Razorpay](https://razorpay.com/careers/) 
--   [Zeta](https://zeta.in/careers) 
+-   [Bhartpe](https://bharatpe.com/career) 
+-   [Cred](https://careers.cred.club/) 
+-   [Jupiter](https://jobs.lever.co/jupiter) 
+-   [Slice / SliceIt](https://www.sliceit.com/careers)
+-   [Razorpay](https://razorpay.com/jobs/) 
+-   [Zeta](https://www.zeta.tech/in/careers) 
 -   [Rupeek](https://www.rupeek.com/careers) 
--   [ClearTax](https://cleartax.in/careers) 
+-   [ClearTax](https://www.clear.in/s/careers) 
 
 ## Trading
 
--   [Tower research capital](https://www.tower-research.com/careers) 
+-   [Tower research capital](https://www.tower-research.com/open-positions) 
 -   [Upstox](https://upstox.com/careers/) 
 -   [Groww](https://groww.in/careers) 
 -   [Zerodha](https://zerodha.com/careers) 
@@ -181,47 +181,47 @@ Company Career Portal Link
 ## Travel
 
 -   [Airbnb](https://www.airbnb.com/careers) 
--   [OYO rooms](https://www.oyorooms.com/careers) 
+-   [OYO rooms](https://www.linkedin.com/company/oyo-rooms/jobs/) 
 -   [MakeMyTrip](https://careers.makemytrip.com/) 
 -   [Bookmytrip](https://careers.bookmytrip.com/) 
 -   [Expedia](https://www.expediagroup.com/careers) 
--   [Groupon](https://www.groupon.com/careers) 
+-   [Groupon](https://www.grouponcareers.com/) 
 -   [Booking.com](https://careers.booking.com/) 
--   [Agoda](https://careers.agoda.com/) 
+-   [Agoda](https://careersatagoda.com/) 
 
 ## Network/Hardware
 
--   [Directi](https://www.directi.com/careers) 
+-   [Directi](https://careers.directi.com/) 
 -   [Qualcomm](https://www.qualcomm.com/careers) 
--   [Dell](https://www.delltechnologies.com/en-us/careers.htm)
+-   [Dell](https://jobs.dell.com/)
 -   [VMware](https://careers.vmware.com/)
--   [Nvidia](https://www.nvidia.com/en-us/careers/) 
--   [Arista Networks](https://www.aristanetworks.com/careers) 
+-   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/) 
+-   [Arista Networks](https://www.arista.com/en/careers) 
 -   [Palo Alto Networks](https://www.paloaltonetworks.com/careers)
 
 ## Gaming Industry
 
--   [Dream 11](https://www.dream11.com/careers) 
--   [Cricbuzz](https://careers.cricbuzz.com/) 
--   [MPL](https://www.mobilepremierleague.com/careers) 
+-   [Dream 11](https://www.dreamsports.group/careers) 
+-   [Cricbuzz](https://www.cricbuzz.com/careers) 
+-   [MPL](https://careers.sequoiacap.com/jobs/mobile-premier-league) 
 -   [Zynga](https://www.zynga.com/careers) 
 -   [Bluestacks](https://www.bluestacks.com/careers.html)
--   [Hike](https://www.hike.in/careers/) 
+-   [Hike](https://hikeapp.notion.site/Work-at-Hike-e3b4884f45164bad8f67c10dae555ffd) 
 -   [Games24x7](https://www.games24x7.com/careers/) 
 
 ## Entertainment
 
--   [Hotstar](https://careers.hotstar.com/) 
--   [Flock](https://flock.com/careers) 
+-   [Hotstar](https://careers.hotstar.com/jobs) 
+-   [Flock](https://careers.flock.com/) 
 -   [Inmobi](https://www.inmobi.com/careers/) 
--   [Sharechat](https://careers.sharechat.com/) 
+-   [Sharechat](https://sharechat.com/careers) 
 
 
 ## Food delivery
 
 
 -   [Swiggy](https://www.swiggy.com/careers)
--   [Zomato](https://careers.zomato.com/) 
+-   [Zomato](https://www.zomato.com/careers) 
 -   [Dunzo](https://dunzo.com/careers) 
 
 ## Logistics
@@ -229,15 +229,15 @@ Company Career Portal Link
 
 -   [Rivigo](https://rivigo.com/careers) 
 -   [Delhivery](https://www.delhivery.com/careers) 
--   [Pickrr](https://pickrr.com/careers/) 
+-   [Pickrr](https://pickrr.com/life-at-pickrr) 
 -   [Turvo](https://turvo.com/careers) 
 -   [Porter](https://porter.in/careers)
--   [Vahak](https://vahak.com/careers/) 
+-   [Vahak](https://www.vahak.in/careers) 
 
 ## Analytics
 
 
--   [Fractal](https://www.fractal.com/careers) 
+-   [Fractal](https://fractal.ai/workday-jobs/) 
 -   [Tredence](https://tredence.com/careers) 
 -   [Tiger Analytics](https://tigeranalytics.com/careers) 
 -   [Latentview](https://www.latentview.com/careers) 
@@ -247,10 +247,10 @@ Company Career Portal Link
 ## Analytics
 
 -   [Fractal](https://www.fractal.com/careers) 
--   [Tredence](https://tredence.com/careers) 
+-   [Tredence](https://www.tredence.com/company-careers) 
 -   [Tiger Analytics](https://tigeranalytics.com/careers) 
 -   [Latentview](https://www.latentview.com/careers) 
--   [MuSigma](https://www.musigma.com/careers) 
+-   [MuSigma](https://www.mu-sigma.com/careers) 
 
 
 ## Telecom
@@ -258,8 +258,8 @@ Company Career Portal Link
 
   - [Ericsson](https://www.ericsson.com/en/careers) 
   - [Nokia](https://www.nokia.com/about-us/careers/) 
-  - [Tejas networks](https://www.tejasnetworks.com/careers) 
-  - [NEC](https://www.nec.com/en/global/careers/index.html) 
+  - [Tejas networks](https://www.tejasnetworks.com/careers.php) 
+  - [NEC](https://in.nec.com/en_IN/career/jobs-at-NEC.html) 
   - [Radisys](https://www.radisys.com/careers/) 
 
 
